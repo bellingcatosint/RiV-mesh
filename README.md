@@ -149,3 +149,14 @@ Under certain circumstances, this exception permits distribution of binaries
 that are (statically or dynamically) linked with this code, without requiring
 the distribution of Minimal Corresponding Source or Minimal Application Code.
 For more details, see: [LICENSE](LICENSE).
+
+
+## Contact via RetroShare
+
+For direct contact and project coordination, you can reach us through RetroShare. Add this public RetroShare certificate to your contacts:
+
+```text
+ABCDCA4iYSA/R3eLKGve+Xh/AQpCZWxsaW5nY2F0AxQpROvRHO0431TmXqzV1lrCGXOziZMGjB+owBNNBAONzFA=
+```
+
+Please share your own certificate in return so we can establish a mutual connection.
